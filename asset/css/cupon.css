@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+nav img {
+    width: 7rem;
+   
+}
+
+.card-body p{
+    color: #707070;
+    font-weight: lighter;
+}
+.card-body h5{
+font-weight: 400;
+color: #212529;
+}
+footer img{
+    width: 5rem;
+}
+footer p{
+    color: #707070;
+    font-weight: lighter;
+}

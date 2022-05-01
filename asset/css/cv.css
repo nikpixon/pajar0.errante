@@ -1,0 +1,20 @@
+     
+        body {
+            background-color: cadetblue;
+        }
+        hr {background-color: black;
+            height: 2px;
+            border: 1px solid black;
+        }
+
+        h1, td{
+            background-color: aquamarine;
+        }
+        
+        img {
+            width: 300px;
+        }
+        table, td {
+            border: 1px solid black;
+        }
+div img{ width: 500px;}
