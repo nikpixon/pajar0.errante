@@ -1,5 +1,6 @@
 body {
     font-family: "Raleway", sans-serif;
+    background-color: #000000;
   }
   
   /* Hero Section */
@@ -13,6 +14,13 @@ body {
   }
   
   /* Mis trabajos */
+
+  #Acerca-de-mi {
+    background-color:#000000;
+  }
+
+  #Acerca-de-mi p, h2, h3 { color: #ffffff;
+  }
   
   #Mis-trabajos .image-top {
     height: 250px;
